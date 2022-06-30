@@ -1,4 +1,5 @@
 # hyhrbl
+A library for downloading images from the web and printing them to the screen.
 
 [![CI Status](https://img.shields.io/travis/mustaalper/hyhrbl.svg?style=flat)](https://travis-ci.org/mustaalper/hyhrbl)
 [![Version](https://img.shields.io/cocoapods/v/hyhrbl.svg?style=flat)](https://cocoapods.org/pods/hyhrbl)
@@ -23,10 +24,6 @@ it, simply add the following line to your Podfile:
 ```ruby
 pod 'hyhrbl'
 ```
-
-## Author
-
-mustaalper, mustaalper@gmail.com
 
 ## License
 
